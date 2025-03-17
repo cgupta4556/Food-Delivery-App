@@ -1,2 +1,2 @@
 # Food-Delivery-App-using-ReactJs
-1.making it live
+1. making it live
