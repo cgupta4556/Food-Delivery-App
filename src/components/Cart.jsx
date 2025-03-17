@@ -34,7 +34,7 @@ const Cart = () => {
         { cartItems.length != 0 ? cartItems.map((i) => (
           <CartItem menuItem={i.menuItem} key={i.menuItem.card.info.id} handleremoveItem={handleremoveItem}/>
         )):
-        <div className="font-medium text-lg">Nothing inside your cart, Add something bitch...</div>
+        <div className="font-medium text-lg">Nothing inside your cart, Add something.....</div>
       }
       </div>
     </div>
